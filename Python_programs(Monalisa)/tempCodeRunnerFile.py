@@ -1,0 +1,1 @@
+TeamMember.__init__(self, name, uid) 
